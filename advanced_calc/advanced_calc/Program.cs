@@ -78,8 +78,31 @@ namespace advanced_calc
                 }
                 else if (shapeChoice == "square")
                 {
+                    Console.WriteLine("enter base");
+                    double base1 = double.Parse(Console.ReadLine());
 
+                    Console.WriteLine("enter height");
+                    double height1 = double.Parse(Console.ReadLine());
+
+                    double areas = (base1 * height1 );
+                    Console.WriteLine(areas);
+                    Console.Read();
                 }
+                else if (shapeChoice == "rectangle")
+                {
+                    Console.WriteLine("enter base");
+                    double base1 = double.Parse(Console.ReadLine());
+
+                    Console.WriteLine("enter height");
+                    double height1 = double.Parse(Console.ReadLine());
+
+                    double arear = (base1 * height1);
+                    Console.WriteLine(arear);
+                    Console.Read();
+                }
+                else
+                    Console.WriteLine("input not valid");
+                
             }
 
             }
