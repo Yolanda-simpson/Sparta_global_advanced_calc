@@ -16,7 +16,7 @@ namespace advanced_calc
             Console.WriteLine("What would you like to calculate? Maths or Shapes?");
             optionnum = Console.ReadLine();
 
-            if (optionnum == "1")
+            if (optionnum == "maths")
 
             {
                 int num1 = 0;
