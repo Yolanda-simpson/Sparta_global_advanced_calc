@@ -1,0 +1,7 @@
+C:\Users\tech-w99a.LAPTOP-3BLG1NHP\Engineering26\week5\day2\advanced_calc\advanced_calc\advanced_calc\bin\Debug\advanced_calc.exe.config
+C:\Users\tech-w99a.LAPTOP-3BLG1NHP\Engineering26\week5\day2\advanced_calc\advanced_calc\advanced_calc\bin\Debug\advanced_calc.exe
+C:\Users\tech-w99a.LAPTOP-3BLG1NHP\Engineering26\week5\day2\advanced_calc\advanced_calc\advanced_calc\bin\Debug\advanced_calc.pdb
+C:\Users\tech-w99a.LAPTOP-3BLG1NHP\Engineering26\week5\day2\advanced_calc\advanced_calc\advanced_calc\obj\Debug\advanced_calc.csprojAssemblyReference.cache
+C:\Users\tech-w99a.LAPTOP-3BLG1NHP\Engineering26\week5\day2\advanced_calc\advanced_calc\advanced_calc\obj\Debug\advanced_calc.csproj.CoreCompileInputs.cache
+C:\Users\tech-w99a.LAPTOP-3BLG1NHP\Engineering26\week5\day2\advanced_calc\advanced_calc\advanced_calc\obj\Debug\advanced_calc.exe
+C:\Users\tech-w99a.LAPTOP-3BLG1NHP\Engineering26\week5\day2\advanced_calc\advanced_calc\advanced_calc\obj\Debug\advanced_calc.pdb
